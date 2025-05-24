@@ -5,3 +5,4 @@
     * commit test
  * [Bicycle Repair Man](http://bicyclerepair.sourceforge.net/) - Bicycle Repair Man, a refactoring tool for Python.
 *Awesome game development libraries.*
+    * [redis-py](https://github.com/redis/redis-py) - The Python client for Redis.
